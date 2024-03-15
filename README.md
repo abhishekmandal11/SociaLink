@@ -19,7 +19,6 @@ Socialink is a full-stack social media application built using the MERN (MongoDB
 - **Node.js:** As the runtime environment for server-side JavaScript execution.
 - **Material UI:** For responsive and visually appealing UI design.
 
-![Tech Stack](https://example.com/tech-stack.png)
 
 ## Getting Started
 
