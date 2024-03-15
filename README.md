@@ -59,6 +59,16 @@ ScreenShots:
 <img width="427" alt="Screenshot 2023-12-17 at 9 08 53 PM" src="https://github.com/abhishekmandal11/SociaLink/assets/154636222/ed3c9fe8-f6fb-4a5c-83be-f65eecf7dd23">
 <br><br><br><br>
 <img width="1680" alt="Screenshot 2023-12-17 at 9 06 35 PM" src="https://github.com/abhishekmandal11/SociaLink/assets/154636222/1183cb3d-f0df-4219-9d74-6f374d2f1fae">
+### 👋 Connect with me:
+
+<div align=center>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/dunna-avinash)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Avinash905)
+<a href="mailto:avinash.90527@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/avinashdunna)
+
+</div>
 
 ## License
 
