@@ -1,7 +1,25 @@
 # SociaLink
 Socialink is a full-stack social media application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a platform to connect, share, and interact with others in a dynamic online community.
 
+<div id="top">
+<h1 align="center">SociaLink 🧑‍⚕️</h1>
+
+<div align="center">
+  <br>
+  <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-pr/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues-pr-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/forks/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/stars/Avinash905/HealthBooker?style=for-the-badge" />
+    <img src="https://img.shields.io/github/contributors-anon/Avinash905/HealthBooker?style=for-the-badge" />
+  </div>
+  <br>
+
 Instructions:
+change directory to
 
 ScreenShots:
 
