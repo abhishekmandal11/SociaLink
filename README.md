@@ -7,6 +7,6 @@ ScreenShots:
 
 <img width="1440" alt="Screenshot 2023-11-19 at 9 33 30 PM" src="https://github.com/abhishekmandal11/SociaLink/assets/154636222/bfa7a21d-318c-4e52-8605-d7fca433976f">
 
-
+<br><br><br><br><br>
 <img width="1440" alt="Screenshot 2023-11-19 at 9 34 52 PM" src="https://github.com/abhishekmandal11/SociaLink/assets/154636222/7b40b35b-8fba-4dff-8df6-ca3db8f60a1c">
 
