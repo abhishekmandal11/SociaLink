@@ -1,11 +1,7 @@
-# SociaLink
-Socialink is a full-stack social media application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a platform to connect, share, and interact with others in a dynamic online community.
 
 # Socialink: A MERN-based Social Media Application
 
 Socialink is a full-stack social media application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It provides users with a platform to connect, share, and interact with others in a dynamic online community.
-
-![Socialink Preview](https://example.com/socialink-preview.png)
 
 ## Key Features
 
@@ -14,7 +10,6 @@ Socialink is a full-stack social media application built using the MERN (MongoDB
 - **Post Creation and Interaction:** Seamless post creation and interaction functionalities, enabling users to create, like, comment, and share posts within the platform.
 - **Real-time Updates:** Real-time notifications and updates keep users informed about new interactions, comments, and messages.
 - **Friendship Network:** Users can connect with others by sending friend requests and building their social network.
-- **Search Functionality:** Robust search features allow users to discover and connect with others based on interests, names, or other criteria.
 
 ## Technologies Used
 
@@ -22,15 +17,14 @@ Socialink is a full-stack social media application built using the MERN (MongoDB
 - **Express.js:** As the backend framework for routing and handling server-side logic.
 - **React.js:** Frontend development utilizing reusable UI components for an interactive user experience.
 - **Node.js:** As the runtime environment for server-side JavaScript execution.
-- **Socket.io:** For real-time communication and updates between the client and server.
-- **Bootstrap or Material UI:** For responsive and visually appealing UI design.
+- **Material UI:** For responsive and visually appealing UI design.
 
 ![Tech Stack](https://example.com/tech-stack.png)
 
 ## Getting Started
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory and install dependencies using `npm install`.
+2. Navigate to the client and server directory and install dependencies using `npm install`.
 3. Set up MongoDB and configure the database connection.
 4. Start the development server using `npm start`.
 5. Access the application via the provided URL and explore its features.
@@ -42,28 +36,6 @@ Contributions are welcome! Feel free to open issues for bug fixes, feature reque
 ## License
 
 This project is licensed under the [MIT License](link-to-license).
-
-
-
-<div id="top">
-<h1 align="center">SociaLink 🧑‍⚕️</h1>
-
-<div align="center">
-  <br>
-  <img src="https://img.shields.io/github/repo-size/Avinash905/HealthBooker?style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/forks/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/stars/Avinash905/HealthBooker?style=for-the-badge" />
-    <img src="https://img.shields.io/github/contributors-anon/Avinash905/HealthBooker?style=for-the-badge" />
-  </div>
-  <br>
-
-Instructions:
-change directory to
 
 ScreenShots:
 
