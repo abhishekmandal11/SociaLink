@@ -46,9 +46,6 @@ Socialink is a full-stack social media application built using the MERN (MongoDB
 
 Contributions are welcome! Feel free to open issues for bug fixes, feature requests, or submit pull requests to contribute enhancements to the project.
 
-## License
-
-This project is licensed under the [MIT License](link-to-license).
 
 ScreenShots:
 
@@ -63,5 +60,7 @@ ScreenShots:
 <br><br><br><br>
 <img width="1680" alt="Screenshot 2023-12-17 at 9 06 35 PM" src="https://github.com/abhishekmandal11/SociaLink/assets/154636222/1183cb3d-f0df-4219-9d74-6f374d2f1fae">
 
+## License
 
+This project is licensed under the [MIT License](link-to-license).
 
